@@ -1,0 +1,5 @@
+1:assets/inventory/items/Helmet.png:100
+2:assets/inventory/items/Chestplate.png:100
+3:assets/inventory/items/Legs.png:25:25
+4:assets/inventory/items/Boots.png:20
+5:assets/inventory/items/Axe.png:20
